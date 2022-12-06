@@ -47,6 +47,18 @@ The analysis of the election show that:
 * The winner of the election was:
     - Diana Gette, who received 73.8% of the votes and 272,982 number of votes.
    
-## Challenge Overview
+## Election-Audit Summary
 
-## Challenge Summary
+  What you have here is a well put together script that will meet your requirements at a top satisfactory level for the foreseeable future. If you choose
+to do buisness with us then I would like to add a bonus to this proposal. That bonus would be, if you guys ever feel like this script is no longer exceeding 
+your expectations, then we would be more than happy to come back, at no cost, and make the necessary changes to make this organization happy with our product.
+
+With that being said, I'd would like to inform you on how versitile this script is. For example, if you'd like to use this scirpt internally, you can.
+You can make the necessary changes within the script to maybe take a vote on new changes within departments. We would change the "candidates" in the script
+to, "ideas", and the "counties" to "department names".
+Another example; You can make changes within the script to see which areas of QoL (Qualit of Life) need improvement. You can swap the candidates name with
+tech fresh, office supplies, etc. You would then run the script and it would determine the most voted selection.
+The possibilites are endless. These were just a few that we came up with on the spot. Imagine what other uses we'd be able to come up with with more time.
+
+We hope that with what we have presented you with today, that you will choose us to ensure this buisness continues to grow in the right direction. Thank you 
+for your time and this opportunity.
