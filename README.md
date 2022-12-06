@@ -19,6 +19,16 @@ A Colorado Board of Elections Employee has given us the following task to comple
 ## Election-Audit Results 
 The analysis of the election show that:
 * There were 369,711 votes cast in the election.
+* The Counties were:
+    - Jefferson
+    - Denver
+    - Arapahoe
+* The Counties results were:
+    - Jefferson with a total vote count of 38,855; 10.5% of total votes.
+    - Denver with a total vote count of 306,055; 82.8% of total votes.
+    - Arapahoe with a total vote count of 24,801; 6.7% of total votes.
+* The County with the largest number of vote
+    - Denver
 * The candidates were:
     - Charles Casper Stockham
     - Diana DeGette
