@@ -18,25 +18,32 @@ A Colorado Board of Elections Employee has given us the following task to comple
 
 ## Election-Audit Results 
 The analysis of the election show that:
+
 * There were 369,711 votes cast in the election.
+
 * The Counties were:
     - Jefferson
     - Denver
     - Arapahoe
+
 * The Counties results were:
     - Jefferson with a total vote count of 38,855; 10.5% of total votes.
     - Denver with a total vote count of 306,055; 82.8% of total votes.
     - Arapahoe with a total vote count of 24,801; 6.7% of total votes.
+
 * The County with the largest number of votes
     - Denver
+
 * The candidates were:
     - Charles Casper Stockham
     - Diana DeGette
     - Raymon Anthony Doane
+
 * The candidate results were:
     - Charles Casper Stockham received 23% of the votes and 85,213 number of votes.
     - Diana Gette received 73.8% of the votes and 272,982 number of votes.
     - Raymon Anthony Doane reeived 3.1% of the votes and 11,806 number of the votes.
+
 * The winner of the election was:
     - Diana Gette, who received 73.8% of the votes and 272,982 number of votes.
    
