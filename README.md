@@ -27,7 +27,7 @@ The analysis of the election show that:
     - Jefferson with a total vote count of 38,855; 10.5% of total votes.
     - Denver with a total vote count of 306,055; 82.8% of total votes.
     - Arapahoe with a total vote count of 24,801; 6.7% of total votes.
-* The County with the largest number of vote
+* The County with the largest number of votes
     - Denver
 * The candidates were:
     - Charles Casper Stockham
